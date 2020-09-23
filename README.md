@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭App na playstore: Contrate Aqui Xanxerê
-- 🌱 Estudante de Ciência da Computação
+- 🔭App na playstore: Contrate Aqui Xanxerê: https://play.google.com/store/apps/details?id=com.leonardorocha.contrate_aqui_xanxere
+- 🌱 Estudante de Ciência da Computação - UFFS
 - 👯 Gosto de programação Mobile com FLutter e odeio Programação Web mas até que tolero
 - 🤔 Interessado em Machine Learning, Data Science e Programação Mobile
 - 📫 email: leoheiro@hotmail.com
