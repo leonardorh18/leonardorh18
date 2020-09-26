@@ -1,6 +1,6 @@
 
 
-<h2>Eaeeeeee 👋, I'm <a href="https://leonardorh18.github.io/">Leonardo H. Rocha</a></h2>
+<h2>Eaeeeeee 👋, I'm <a href="https://github.com/leonardorh18">Leonardo H. Rocha</a></h2>
 <p>Sou aluno do Curso de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) campus Chapecó.            
     Gosto de desenvolver pra mobile (Flutter 😍), não gosto de programação Web mas tenho que tolerar 😡 e sou aprendiz de Machine Learning.
 </p>
@@ -10,6 +10,7 @@
 
 </p>
 
+<h1> Linkedin din din din <a href= "https://www.linkedin.com/in/leonardo-heidrich-rocha-064821157/" ></a> </h1>
 
 <h3>Sobre o Rochinha 👨‍💻 </h3>
 
@@ -18,7 +19,6 @@
     <li>📱 Tenho um app (em flutter) publicado na Play Store como portfolio (acessa aí) https://play.google.com/store/apps/details?id=com.leonardorocha.contrate_aqui_xanxere</li>
     <li>🧑🏻‍🚀 Gosto de criar bots em python pra fazer qualquer coisa</li>
    
-
 </ul>
 
 
