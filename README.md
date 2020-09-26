@@ -10,7 +10,7 @@
 
 </p>
 
-<h1> Linkedin din din din <a href= "https://www.linkedin.com/in/leonardo-heidrich-rocha-064821157/" ></a> </h1>
+<h1> <a href= "https://www.linkedin.com/in/leonardo-heidrich-rocha-064821157/" >Linkedin din din din </a> </h1>
 
 <h3>Sobre o Rochinha 👨‍💻 </h3>
 
