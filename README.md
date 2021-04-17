@@ -20,6 +20,14 @@
     <li>🧑🏻‍🚀 Gosto de criar bots em python pra fazer qualquer coisa</li>
    
 </ul>
+<h3> Setup </h3>
+<ul>
+    <li> Processador Intel Core i3 9100F QuadCore 3.6~4.2 Ghz </li>
+    <li> 16Gb 2x 8Gb 2666mhz </li>
+    <li> HDD 1 TB</li>
+    <li> GPU: AMD RX 570 8Gb XFX</li>
+    
+</ul>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardorh18&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
