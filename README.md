@@ -2,7 +2,7 @@
 
 <h2>Eaeeeeee 👋, I'm <a href="https://github.com/leonardorh18">Leonardo H. Rocha</a></h2>
 <p>Sou aluno do Curso de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) campus Chapecó.            
-    Gosto de desenvolver pra mobile (Flutter 😍), não gosto de programação Web mas tenho que tolerar 😡 e sou aprendiz de Machine Learning.
+    Gosto de desenvolver pra mobile (Flutter 😍) e sou aprendiz de Machine Learning.
 </p>
 <p>
   
