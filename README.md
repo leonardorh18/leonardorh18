@@ -15,10 +15,11 @@
 <h3>Sobre o Rochinha 👨‍💻 </h3>
 
 <ul>
-    <li>👨🏻‍🎓 Sou bolsista do projeto: Analise exploratória de assuntos recorrentes em redes sociais</li>
+    <li>👨🏻‍🎓 Fui bolsista do projeto: Analise exploratória de assuntos recorrentes em redes sociais</li>
     <li>📱 Tenho um app (em flutter) publicado na Play Store como portfolio (acessa aí) https://play.google.com/store/apps/details?id=com.leonardorocha.contrate_aqui_xanxere</li>
      <li>📱 Esse também https://play.google.com/store/apps/details?id=com.lhrocha.quantofalta</li>
     <li>🧑🏻‍🚀 Gosto de criar bots em python pra fazer qualquer coisa</li>
+    <li> Gosto de Data Science e Machine Learning
    
 </ul>
 <h3> Setup </h3>
