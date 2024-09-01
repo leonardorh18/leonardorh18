@@ -1,8 +1,7 @@
 
 
 <h2>Eaeeeeee 👋, I'm <a href="https://github.com/leonardorh18">Leonardo H. Rocha</a></h2>
-<p>Sou aluno do Curso de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) campus Chapecó.            
-    Gosto de desenvolver pra mobile (Flutter 😍) e sou aprendiz de Machine Learning.
+<p>Formado em Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) campus Chapecó e MBA em Big Data.            
 </p>
 <p>
   
@@ -17,18 +16,17 @@
 <ul>
     <li>👨🏻‍🎓 Fui bolsista do projeto: Analise exploratória de assuntos recorrentes em redes sociais</li>
     <li>📱 Tenho um app (em flutter) publicado na Play Store como portfolio (acessa aí) https://play.google.com/store/apps/details?id=com.leonardorocha.contrate_aqui_xanxere</li>
-     <li>📱 Esse também https://play.google.com/store/apps/details?id=com.lhrocha.quantofalta</li>
     <li>🧑🏻‍🚀 Gosto de criar bots em python pra fazer qualquer coisa</li>
     <li> Gosto de Data Science e Machine Learning
+    <li>Engenheiro de dados trabalhando com AWS, Azure Databricks, Pyspark, SQL e mais</li>
    
 </ul>
 <h3> Setup </h3>
 <ul>
-    <li> Processador Intel Core i3 9100F QuadCore 3.6~4.2 Ghz </li>
-    <li> 16Gb 2x 8Gb 2666mhz </li>
-    <li> HDD 1 TB</li>
-    <li> SSD 512GB</li>
-    <li> GPU: AMD RX 570 8Gb XFX</li>
+    <li> 13th Gen Intel(R) Core(TM) i5-13450HX</li>
+    <li> 16,0 GB DDR5 4800 </li>
+    <li> SSD Nvme2 1Tb</li>
+    <li> RTX 3050 6gb</li>
     
 </ul>
 
